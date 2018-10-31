@@ -38,7 +38,7 @@ public class Data {
 		int min = cal.get(Calendar.MINUTE);
 		int mes = 1 + cal.get(Calendar.MONTH);
 		System.out.printf("Min: " + min +"%n"+"Mes: "+ mes);
-		
+		System.out.println("");
 		
 		
 		
